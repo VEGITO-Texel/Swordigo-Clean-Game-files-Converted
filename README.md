@@ -1,3 +1,4 @@
+The Developer Of this Project is------------https://github.com/TheCorrectSynovian
 # 🗡️ Swordigo - Clean Game Files & Converted Assets
 
 Cleaned, extracted, and pre-configured assets for the **Swordigo Windows Portable Edition** (OpenSwordigo project). This repository provides ready-to-use game files, converted audio assets, and a portable launcher setup.
