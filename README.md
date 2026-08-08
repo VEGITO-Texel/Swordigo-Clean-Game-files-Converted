@@ -63,6 +63,7 @@ This ensures:
 - **Touch Foo** — Original creators of *Swordigo*.
 - **OpenSwordigo Team** — For developing the open-source Windows engine port and tools.
 - **VEGITO-Texel** — Clean asset conversion, audio fixes, and portable configuration.
-
----
+- **QuantumCreeper -- Developer Of OpenSwordigo Projects
+- Mr Sinups-The Contributor of OpenSwordigo Project
+-
 *Disclaimer: This repository is intended for modding, testing, and archival purposes.*
