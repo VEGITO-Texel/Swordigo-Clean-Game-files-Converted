@@ -23,3 +23,46 @@ Cleaned, extracted, and pre-configured assets for the **Swordigo Windows Portabl
 ---
 
 ## 📂 Folder Structure Overview
+
+Swordigo-Clean-Game-files-Converted/
+├── assets/             # Game assets (textures, audio, scenes)
+├── engine/             # Engine dependencies and core scripts
+├── external/           # Third-party libraries
+├── launcher/           # Launcher binaries
+├── res/                # Game resources
+├── data/               # Local portable saves (created on launch)
+├── swordfare.exe       # Main game executable
+├── swordfare.bat       # Portable launcher script (Recommended)
+├── Ruby.exe            # Asset viewer / Scene tool
+└── *.dll               # Required runtime DLLs
+
+---
+
+## ⚙️ Portable Save Data Details
+
+By default, the game engine attempts to read/write saves from `%APPDATA%\swordigo-desktop\`. 
+
+Using **`swordfare.bat`** redirects the save directory to:
+`./data/swordigo-desktop/`
+
+This ensures:
+- Easy backup and transfer to other PCs / USB drives.
+- Progress won't be lost during Windows reinstallations.
+
+---
+
+## 📝 Notes & Troubleshooting
+
+- **Micro-stutters during level transitions:** Happens due to real-time GLSL shader compilation (especially on AMD GPUs) and synchronous asset loading in dev builds. Installing on an **SSD** significantly reduces this delay.
+- **Asset Editing:** Use `Ruby.exe` to inspect scenes and verify audio asset paths.
+
+---
+
+## ❤️ Credits & Thanks
+
+- **Touch Foo** — Original creators of *Swordigo*.
+- **OpenSwordigo Team** — For developing the open-source Windows engine port and tools.
+- **VEGITO-Texel** — Clean asset conversion, audio fixes, and portable configuration.
+
+---
+*Disclaimer: This repository is intended for modding, testing, and archival purposes.*
