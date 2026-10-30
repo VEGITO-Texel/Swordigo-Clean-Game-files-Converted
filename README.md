@@ -1,7 +1,7 @@
 The Developer Of this Project is------------https://github.com/TheCorrectSynovian
 # 🗡️ Swordigo - Clean Game Files & Converted Assets
 
-Cleaned, extracted, and pre-configured assets for the **Swordigo Windows Portable Edition** (OpenSwordigo project). This repository provides ready-to-use game files, converted audio assets, and a portable launcher setup.
+Cleaned, extracted, and pre-configured assets for the **Swordigo Windows Portable Edition** (AevoraLabs project). This repository provides ready-to-use game files, converted audio assets, and a portable launcher setup.
 
 ---
 
@@ -62,9 +62,9 @@ This ensures:
 ## ❤️ Credits & Thanks
 
 - **Touch Foo** — Original creators of *Swordigo*.
-- **OpenSwordigo Team** — For developing the open-source Windows engine port and tools.
+- **AevoraLabs Team** — For developing the open-source Windows engine port and tools.
 - **VEGITO-Texel** — Clean asset conversion, audio fixes, and portable configuration.
-- **QuantumCreeper -- Developer Of OpenSwordigo Projects
-- Mr Sinups-The Contributor of OpenSwordigo Project
--
+- **QuantumCreeper -- Developer Of AevoraLabs Projects
+- **Mr Sinups-The Contributor of AevoraLabs Project
+-**Reallinusweiss-The Developer of Aevoralabs in Windows Porting
 *Disclaimer: This repository is intended for modding, testing, and archival purposes.*
