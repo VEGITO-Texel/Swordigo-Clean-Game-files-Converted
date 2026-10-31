@@ -61,10 +61,23 @@ This ensures:
 
 ## ❤️ Credits & Thanks
 
+
 - **Touch Foo** — Original creators of *Swordigo*.
+
+- 
 - **AevoraLabs Team** — For developing the open-source Windows engine port and tools.
+
+- 
 - **VEGITO-Texel** — Clean asset conversion, audio fixes, and portable configuration.
+
+- 
 - **QuantumCreeper -- Developer Of AevoraLabs Projects
+
+- 
 - **Mr Sinups-The Contributor of AevoraLabs Project
+- 
+- 
 -**Reallinusweiss-The Developer of Aevoralabs in Windows Porting
+
+  
 *Disclaimer: This repository is intended for modding, testing, and archival purposes.*
