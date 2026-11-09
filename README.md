@@ -1,5 +1,5 @@
 The Developer Of this Project is----> 
-https://github.com/TheCorrectSynovian
+https://github.com/TheAevoraLabs/SwordigoDesktop
 
 Windows Port-
 https://github.com/reallinusweiss/ricasso
