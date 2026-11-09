@@ -1,4 +1,7 @@
-The Developer Of this Project is----> https://github.com/TheCorrectSynovian-------&--WindowsPorting---------> https://github.com/reallinusweiss/ricasso
+The Developer Of this Project is----> 
+https://github.com/TheCorrectSynovian
+Windows Port-
+https://github.com/reallinusweiss/ricasso
 # 🗡️ Swordigo - Clean Game Files & Converted Assets
 
 Cleaned, extracted, and pre-configured assets for the **Swordigo Windows Portable Edition** (AevoraLabs project). This repository provides ready-to-use game files, converted audio assets, and a portable launcher setup.
